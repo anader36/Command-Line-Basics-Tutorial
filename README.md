@@ -1,10 +1,4 @@
-# Command-Line-Basics-Tutorial
-Week 2 - Lab
 This repository was created as a tutorial for beginners to learn Command Line Basics in Kali Linux.
-
-
-
-
 
                           oooo$$$$$$$$$$$$oooo
                       oo$$$$$$$$$$$$$$$$$$$$$$$$o
